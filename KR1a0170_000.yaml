@@ -1,0 +1,18 @@
+canonical_identifier: bkk:krp/KR1a0170/krp/v1/juan/0
+seq: 0
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+metadata:
+  title: 易緯坤靈圖
+  edition:
+    short: krp
+  base_edition: WYG
+  date: '2015-08-24 22:01:24.459454'
+  source:
+    repository: kanripo
+    path: KR1a0170/KR1a0170_000.txt
+hash: sha256:d2f44555c653da105ca59da5795425b6bf17db254ebf1b32e9c5dd47ec9efac0

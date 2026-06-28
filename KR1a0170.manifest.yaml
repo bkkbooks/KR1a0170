@@ -1,0 +1,41 @@
+canonical_identifier: bkk:krp/KR1a0170/v1
+canonical_location: https://kanripo.org/bkk/KR1a0170/v1
+canonical_set:
+  identifier: bkk:charset/cjk-v1
+  hash: sha256:7cf5854f9b7b99617990762b56ca5289dd34e1992baf324bb7716157d9a4b2ee
+metadata:
+  title: 易緯坤靈圖
+  date: '2015-08-24 22:01:24.459454'
+  source:
+    repository: kanripo
+    path: KR1a0170
+  base_edition: WYG
+  edition:
+    short: bkk
+entity_encoding:
+  identifier: bkk:encoding/kanripo-pua-v1
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+editions:
+- short: WYG
+  label: 【四庫全書・文淵閣】
+assets:
+  parts:
+  - {seq: 0, filename: KR1a0170_000.yaml, hash: 'sha256:d2f44555c653da105ca59da5795425b6bf17db254ebf1b32e9c5dd47ec9efac0'}
+  - {seq: 1, filename: KR1a0170_001.yaml, hash: 'sha256:67837760acd35759c1e703fd93afec8c05174ce131106673f0dc0d937192abe4'}
+  markers:
+  - {seq: 1, role: markers, filename: assets/KR1a0170_001.markers.yaml, hash: 'sha256:6ad770783b531d2429c82de9af8daaecb1b52bfffaf3819016b5e2405d46b12a'}
+table_of_contents:
+- ref:
+    seq: 1
+    marker_id: KR1a0170_WYG_001-1a
+    span:
+    - body
+    - 0
+    - 677
+  label: 易緯坤靈圖
+  type: section
+  level: 1
+hash: sha256:6451c11a06aa701fbcc9914c852d61753818443bbdec442bb88508699690acf6
+mappings:
+- canonical_identifier: bkk:mapping/variant-fold-v1
+  hash: sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e
