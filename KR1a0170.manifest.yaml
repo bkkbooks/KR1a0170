@@ -23,7 +23,7 @@ assets:
   - {seq: 0, filename: KR1a0170_000.yaml, hash: 'sha256:d2f44555c653da105ca59da5795425b6bf17db254ebf1b32e9c5dd47ec9efac0'}
   - {seq: 1, filename: KR1a0170_001.yaml, hash: 'sha256:6286e5bdf54c5a7fc2cab613ec61864ef49cb978f45af5dfd729318e218097a3'}
   markers:
-  - {seq: 1, role: markers, filename: assets/KR1a0170_001.markers.yaml, hash: 'sha256:b724759d98ff8dece22e899ea66be86814e31597f27df34123b71fb7d2e1d3f4'}
+  - {seq: 1, role: markers, filename: assets/KR1a0170_001.markers.yaml, hash: 'sha256:c02d63572406a0f32696663446081efdbd8612583d5dbd55c228a7b9b9bedad9'}
 table_of_contents:
 - ref:
     seq: 1
@@ -35,7 +35,7 @@ table_of_contents:
   label: 易緯坤靈圖
   type: section
   level: 1
-hash: sha256:a1ce8cc34491e9fa3ff3324ebe237619c193bb48193168503ef2d58ebabd2e24
+hash: sha256:87ab7a2ea2e0df3060b04ec1270e5239c36a0b6fc81d802f2ce2304a50d2499d
 mappings:
 - canonical_identifier: bkk:mapping/variant-fold-v1
   hash: sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20
